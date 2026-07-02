@@ -1,5 +1,3 @@
-# ![webMethodMan](webMethodMan-logo-new-sq.png) Engineering Strategy & Architecture
-
 ![webMethodMan-banner-li.png](webMethodMan-banner-li.png)
 
 ## Sovereign Spine & Agentic Governance

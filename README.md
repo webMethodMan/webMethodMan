@@ -8,13 +8,9 @@ I design the deterministic foundations for autonomous enterprise systems. As a P
 - **Forensic Lexicon**: Formalizing the architectural primitives for the agentic era.
 
 ## Selected Research & Blueprints
-- Beyond Software Hope: The Engineering Blueprint for AI Execution Truth
-  (https://www.webmethodman.com/p/beyond-software-hope)
-  This blueprint establishes the strategic shift from probabilistic, software-policed AI to deterministic, hardware-enforced execution truth utilizing TEEs and the Citadel protocol.
+- **[Beyond Software Hope: The Engineering Blueprint for AI Execution Truth](https://www.webmethodman.com/p/beyond-software-hope):** This blueprint establishes the strategic shift from probabilistic, software-policed AI to deterministic, hardware-enforced execution truth utilizing TEEs and the Citadel protocol.
   
-- A Forensic Lexicon for the Agentic Era — Architectural Primitives of the Sovereign Spine
-  Digital Object Identifier: [https://doi.org/10.5281/zenodo.19775766](https://doi.org/10.5281/zenodo.19775766)
-  This document provides the foundational architectural vocabulary and semantic primitives required to communicate and build within the Sovereign Spine ecosystem.
+- **[A Forensic Lexicon for the Agentic Era — Architectural Primitives of the Sovereign Spine](https://doi.org/10.5281/zenodo.19775766):** This document provides the foundational architectural vocabulary and semantic primitives required to communicate and build within the Sovereign Spine ecosystem.
 
 ## Current Focus
 *   **Rust (no_std)**: Implementation of `sakshi-core` for secure enclave attestation.

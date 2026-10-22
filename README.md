@@ -4,10 +4,6 @@ I design the deterministic foundations for autonomous enterprise systems. As a P
 
 > **🚀 Free Monograph Promotion:** *The Hardware Truth Landscape: Securing Autonomous Agent Meshes Through Silicon-Enforced Trust* is available free on Amazon Kindle through this Sunday. [Get your copy here](https://www.amazon.com/dp/B0HNJCR3FS).
 
-- **Citadel Protocol:** My reference architecture for binding agent identity to a hardware root of trust.
-- **The Agentic Strangler:** An integration pattern designed to dismantle monolithic technical debt via the Model Context Protocol (MCP).
-- **Forensic Lexicon:** Formalizing the architectural primitives for the agentic era.
-
 ## Selected Research & Blueprints
 * **[The Citadel Protocol — A Reference Architecture for Hardware-Enforced Agentic Governance](https://doi.org/10.5281/zenodo.18472859)**  
   Establishing a non-negotiable baseline for "Sovereign AI" by binding agent identity to a Hardware Root of Trust (HROT). This framework replaces probabilistic software security with deterministic hardware attestation to eliminate silent data corruption in autonomous transactions. https://doi.org/10.5281/zenodo.18472859
@@ -26,9 +22,11 @@ I design the deterministic foundations for autonomous enterprise systems. As a P
 
 ## Current Focus
 
-- **Rust (`no_std`):** Implementation of `sakshi-core` for secure enclave attestation.
-- **TEE Architecture:** Intel TDX and AWS Nitro Enclaves for deterministic governance.
-- **Hedera Mirror Nodes:** Utilizing DLT for immutable forensic proof-of-intent.
+* **Rust (`no_std`):** Implementation of `sakshi-core` for secure enclave attestation.
+
+* **TEE Architecture:** Intel TDX and AWS Nitro Enclaves for deterministic governance.
+
+* **Hedera Mirror Nodes:** Utilizing DLT for immutable forensic proof-of-intent.
 
 ***
 *Principal Solution Architect | Technical Diplomat* — [webmethodman.com](https://www.webmethodman.com)

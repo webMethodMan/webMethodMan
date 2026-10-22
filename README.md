@@ -2,7 +2,7 @@
 
 I design the deterministic foundations for autonomous enterprise systems. As a Principal Architect, I bridge the gap between legacy integration and high-assurance silicon-level trust.
 
-> **🚀 Free Monograph Promotion:** *The Hardware Truth Landscape: Securing Autonomous Agent Meshes Through Silicon-Enforced Trust* is available free on Amazon Kindle through this Sunday. [Get your copy here](https://www.amazon.com/dp/B0HNJCR3FS).**
+> *🚀 Free Monograph Promotion:* *The Hardware Truth Landscape: Securing Autonomous Agent Meshes Through Silicon-Enforced Trust* is available free on Amazon Kindle through this Sunday. [Get your copy here](https://www.amazon.com/dp/B0HNJCR3FS).
 
 ## Selected Research & Blueprints
 * **[The Citadel Protocol — A Reference Architecture for Hardware-Enforced Agentic Governance](https://doi.org/10.5281/zenodo.18472859)**  
